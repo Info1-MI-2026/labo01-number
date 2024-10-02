@@ -3,5 +3,7 @@
 
 int main(void){
 
+    printf("Bonjours");
+
     return 0;
 }
